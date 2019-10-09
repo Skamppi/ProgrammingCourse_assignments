@@ -1,0 +1,12 @@
+Projektissa tarkoitus löytää https://developers.themoviedb.org/3 kautta leffat,
+jotka pyörivät teattereissa tällä hetkellä. Tulee myös elokuvien nykyinen arvosana
+näkyviin.
+
+Klikatessa jotain niistä 20 leffasta, jotka sivulle päivittyy niin pääsee uudelle
+sivulle, jossa haetaan lisätietoja elokuvasta. Jos virhe käy niin sivu ei kaadu vaan
+laittaa error messagen käyttäjälle jolloin voi palata vielä takaisin kotisivulle.
+
+Laitoin myös linkin, että kunkin elokuvan virallisille sivuille pääsee halutessaan
+klikkaamaan ja linkki avautuu.
+
+Kaikki tiedot siis haetaan suoraan sivuilta eikä mitään ole kirjoitettu valmiiksi.
