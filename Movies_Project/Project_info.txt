@@ -11,3 +11,12 @@ klikkaamaan ja linkki avautuu.
 
 Kaikki tiedot siis haetaan suoraan sivuilta eikä mitään ole kirjoitettu valmiiksi.
 
+Projektin teko jäi vähän viime tinkaan töiden takia, eli vaikein osuus oli aika.
+Olin löytänyt tuon movie database sivuston niin sitä halusin käyttää projektissa.
+Haastavaa oli myös tehdä nettisivu, joka ottaa tiedot toisesta sivusta. Oikeastaan
+koko projekti oli yhtä ongelmaa, mutta yksitellen aina pääsi lähemmäs tavoitetta.
+
+Testasin myös toisella koneella käynnistää ohjelmani, että ei vain toimi omalla koneella
+niin sain toimimaan helposti myös toisella koneella. MongoDB:n kanssa oli vähän
+kurssitehtävien kanssa ongelmia niin sitä en halunnut käyttää projektini kanssa.
+
