@@ -1,0 +1,15 @@
+E:\VisualStudio2019Projects\Harjoitukset\Assignment1\bin\Debug\netcoreapp3.0\Assignment1.exe
+E:\VisualStudio2019Projects\Harjoitukset\Assignment1\obj\Debug\netcoreapp3.0\Assignment1.csprojAssemblyReference.cache
+E:\VisualStudio2019Projects\Harjoitukset\Assignment1\obj\Debug\netcoreapp3.0\Assignment1.AssemblyInfoInputs.cache
+E:\VisualStudio2019Projects\Harjoitukset\Assignment1\obj\Debug\netcoreapp3.0\Assignment1.AssemblyInfo.cs
+E:\VisualStudio2019Projects\Harjoitukset\Assignment1\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+E:\VisualStudio2019Projects\Harjoitukset\Assignment1\obj\Debug\netcoreapp3.0\Assignment1.csproj.CopyComplete
+E:\VisualStudio2019Projects\Harjoitukset\Assignment1\bin\Debug\netcoreapp3.0\Assignment1.deps.json
+E:\VisualStudio2019Projects\Harjoitukset\Assignment1\bin\Debug\netcoreapp3.0\Assignment1.runtimeconfig.json
+E:\VisualStudio2019Projects\Harjoitukset\Assignment1\bin\Debug\netcoreapp3.0\Assignment1.runtimeconfig.dev.json
+E:\VisualStudio2019Projects\Harjoitukset\Assignment1\bin\Debug\netcoreapp3.0\Assignment1.dll
+E:\VisualStudio2019Projects\Harjoitukset\Assignment1\bin\Debug\netcoreapp3.0\Assignment1.pdb
+E:\VisualStudio2019Projects\Harjoitukset\Assignment1\bin\Debug\netcoreapp3.0\RestSharp.dll
+E:\VisualStudio2019Projects\Harjoitukset\Assignment1\obj\Debug\netcoreapp3.0\Assignment1.dll
+E:\VisualStudio2019Projects\Harjoitukset\Assignment1\obj\Debug\netcoreapp3.0\Assignment1.pdb
+E:\VisualStudio2019Projects\Harjoitukset\Assignment1\bin\Debug\netcoreapp3.0\bikedata.txt
