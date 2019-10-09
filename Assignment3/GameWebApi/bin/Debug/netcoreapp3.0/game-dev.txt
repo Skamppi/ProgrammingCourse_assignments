@@ -1,0 +1,18 @@
+﻿[ 
+    { 
+		"Id": "AE0DE1E1-62B7-45CC-88AB-D2B0730C56D7", 
+		"Name": "jack bauer", 
+		"Score": "1", 
+		"Level": "1", 
+		"IsBanned": "false", 
+		"CreationTime": "2019-10-10" 
+	},
+	{ 
+		"Id": "F43C0984-4E77-4A47-B727-418E2B888F92", 
+		"Name": "jBeyonce Knowles", 
+		"Score": "10", 
+		"Level": "777", 
+		"IsBanned": "false", 
+		"CreationTime": "2019-10-10" 
+	}
+] 
