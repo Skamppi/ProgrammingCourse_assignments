@@ -1,0 +1,36 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<form>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Vote Average</th>
+                <th>Vote Count</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var item in Model.MoviesNowPlaying.results)
+            {
+            <tr>
+                <td><a href="/Detail?id=@item.id">@item.title</a></td>
+                <td>@item.vote_average</td>
+                <td>@item.vote_count</td>
+            </tr>
+            }
+        </tbody>
+
+    </table>
+
+</form>

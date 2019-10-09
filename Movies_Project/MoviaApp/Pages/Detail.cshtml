@@ -1,0 +1,36 @@
+﻿@page
+@model MoviaApp.Pages.DetailModel
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Detail</title>
+</head>
+<body>
+    <div class="container">
+        <div>Movie Details</div>
+        @if (Model.Detaildata != null) 
+        { 
+    <table>
+        <tr>
+            <td>Title</td>
+            <td>@Model.Detaildata.title</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>@Model.Detaildata.overview</td>
+        </tr>
+        <tr>
+            <td>Homepage</td>
+            <td><a href="@Model.Detaildata.homepage">@Model.Detaildata.homepage</a></td>
+        </tr>
+    </table>
+        }
+    </div>
+    <div>
+        @Model.Message
+    </div>
+</body>
+</html>
